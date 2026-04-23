@@ -14,6 +14,9 @@ This service provides a secure API for collecting and aggregating CIM metrics fr
   <img src="auth_metrics_server/static/cropped-GD_logo.png" alt="GreenDIGIT Logo" width="110px" style="margin-right:100px">
 </div>
 
+Related repositories:
+- [GreenDIGIT-project](https://github.com/GreenDIGIT-project)
+
 ### Data Storage
 - **Metrics Storage:**  
   Submitted metrics will be transformed and stored in a SQL-compatible format (PostgreSQL) and organised into appropriate namespaces for future querying and analysis.

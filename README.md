@@ -16,7 +16,7 @@ This service provides a secure API for collecting and aggregating CIM metrics fr
 
 Related repositories:
 - [GreenDIGIT-project](https://github.com/GreenDIGIT-project)
-- [GreenDIGIT-CIM](https://github.com/g-uva/GreenDIGIT-CIM)
+- [GreenDIGIT-CIM](https://github.com/atahir2/GreenDIGIT-CIM)
 - [GreenDIGIT-SQLAdapter](https://github.com/g-uva/GreenDIGIT-SQLAdapter)
 - [GreenDIGIT-KPIService](https://github.com/g-uva/GreenDIGIT-WP6-KPI-Service)
 
